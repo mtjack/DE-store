@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240831183740_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DE-Store-Backend\\Migrations\\20240831183740_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\purchaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829125600_update-purchase-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829124827_update-purchase-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123832_update-purchase-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123530_update-purchase-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820011051_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820004600_initial-migration-dos-point-o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820002214_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240819223309_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232145_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232106_remove-product-id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\de-store-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\de-store-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818222950_add-discounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818221551_update-stores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818214434_update-products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|c:\\users\\mtjac\\repos\\software architecture coursework - matthew jack - 40509169\\de-store\\de-store-backend\\de-store-backend\\migrations\\20240830083023_fresh-migrations-dir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655F607-C028-4B72-95BA-FB5C6D1948F4}|DE-Store-Backend\\DE-Store-Backend.csproj|solutionrelative:de-store-backend\\migrations\\20240830083023_fresh-migrations-dir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240831183740_test.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240831183740_test.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Migrations\\20240831183740_test.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240831183740_test.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Migrations\\20240831183740_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:37:40.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240830083023_fresh-migrations-dir.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240830083023_fresh-migrations-dir.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Migrations\\20240830083023_fresh-migrations-dir.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240830083023_fresh-migrations-dir.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Migrations\\20240830083023_fresh-migrations-dir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:30:23.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240829125600_update-purchase-data.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829125600_update-purchase-data.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829125600_update-purchase-data.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829125600_update-purchase-data.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829125600_update-purchase-data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:56:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240829124827_update-purchase-data.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829124827_update-purchase-data.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829124827_update-purchase-data.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829124827_update-purchase-data.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829124827_update-purchase-data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:48:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240829123832_update-purchase-data.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123832_update-purchase-data.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123832_update-purchase-data.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123832_update-purchase-data.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123832_update-purchase-data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:38:33.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240829123530_update-purchase-data.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123530_update-purchase-data.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123530_update-purchase-data.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123530_update-purchase-data.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240829123530_update-purchase-data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:35:30.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\PurchaseItem.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\PurchaseItem.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\PurchaseItem.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\PurchaseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:46:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\mtjac\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\773a74d1cbc20b2132a00a09a7e1673a467e6798679fc0002818100627cfb995\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAvwJsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:24:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:19:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240820011051_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820011051_initial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820011051_initial-migration.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820011051_initial-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820011051_initial-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:10:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240820004600_initial-migration-dos-point-o.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820004600_initial-migration-dos-point-o.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820004600_initial-migration-dos-point-o.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820004600_initial-migration-dos-point-o.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820004600_initial-migration-dos-point-o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:46:00.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:27:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240820002214_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820002214_initial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820002214_initial-migration.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820002214_initial-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240820002214_initial-migration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:22:14.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240819223309_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240819223309_initial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240819223309_initial-migration.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240819223309_initial-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240819223309_initial-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:33:09.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:02:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240818232145_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232145_initial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232145_initial-migration.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232145_initial-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232145_initial-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:21:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240818232106_remove-product-id.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232106_remove-product-id.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232106_remove-product-id.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232106_remove-product-id.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818232106_remove-product-id.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:21:06.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240818222950_add-discounts.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818222950_add-discounts.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818222950_add-discounts.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818222950_add-discounts.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818222950_add-discounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:29:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240818221551_update-stores.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818221551_update-stores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818221551_update-stores.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818221551_update-stores.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818221551_update-stores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:15:51.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240818214434_update-products.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818214434_update-products.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818214434_update-products.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818214434_update-products.cs",
+              "RelativeToolTip": "..\\..\\..\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Migrations\\20240818214434_update-products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:44:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:30:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Purchase.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:25:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Discount.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:17:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Product.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:16:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Customer.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:16:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\Store.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:16:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:59:08.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:07:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\appsettings.json",
+              "RelativeToolTip": "DE-Store-Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T21:17:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Models\\User.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:53:08.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:19:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DE-Store-Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\DE-Store-Backend.csproj",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\DE-Store-Backend.csproj",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\DE-Store-Backend.csproj",
+              "RelativeToolTip": "DE-Store-Backend\\DE-Store-Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T20:33:27.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "DE-Store-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\mtjac\\repos\\Software Architecture Coursework - Matthew Jack - 40509169\\DE-store\\DE-Store-Backend\\DE-Store-Backend\\Program.cs",
+              "RelativeToolTip": "DE-Store-Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:30:28.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
